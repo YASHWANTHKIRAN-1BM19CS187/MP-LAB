@@ -6,7 +6,7 @@ RES DB ?
 
 
 .CODE
-MOV AX,@DATA
+MOV AX, @DATA
 MOV DS, AX
 
 
